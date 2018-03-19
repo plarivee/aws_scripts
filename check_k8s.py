@@ -48,7 +48,7 @@ if __name__ == "__main__":
 
     
 #https://github.com/kubernetes-client/python-base/pull/48
-#    config.load_kube_config(context='k8s.dev.cloud.coveo.com')
+#    config.load_kube_config(context='k8s.dev.cloud')
 #    v1 = client.CoreV1Api()
 #    #print("Listing pods with their IPs:")
 #    ret = v1.list_node()
